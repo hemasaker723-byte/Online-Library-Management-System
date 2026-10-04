@@ -12,7 +12,7 @@ Department: CS & IS
 
 ### Team Members:
 1. Ibrahim Gamal
-2. Moustafa Gamal
+2. Mostafa Gamal
 3. Ahmed Helal
 4. Abdelrahman Khaled
 5. Ahmed Salama
