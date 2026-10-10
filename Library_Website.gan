@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Library Website" company="" webLink="" view-date="2026-10-12" view-index="0" gantt-divider-location="420" resource-divider-location="300" version="3.2.3200" locale="en">
+ <description/>
+ <view zooming-state="default:3" id="gantt-chart">
+  <field id="tpd3" name="Name" width="220" order="0"/>
+  <field id="tpd4" name="Begin date" width="80" order="1"/>
+  <field id="tpd5" name="End date" width="80" order="2"/>
+ </view>
+ <view id="resource-table">
+  <field id="0" name="Name" width="160" order="0"/>
+  <field id="1" name="Default role" width="80" order="1"/>
+ </view>
+ <calendars>
+  <day-types>
+   <day-type id="0"/>
+   <day-type id="1"/>
+   <default-week id="1" name="default" sun="0" mon="0" tue="0" wed="0" thu="0" fri="0" sat="0"/>
+   <only-show-weekends value="false"/>
+   <overriden-day-types/>
+   <days/>
+  </day-types>
+ </calendars>
+ <tasks empty-milestones="true">
+  <taskproperties>
+   <taskproperty id="tpd0" name="type" type="default" valuetype="icon"/>
+   <taskproperty id="tpd1" name="priority" type="default" valuetype="icon"/>
+   <taskproperty id="tpd2" name="info" type="default" valuetype="icon"/>
+   <taskproperty id="tpd3" name="name" type="default" valuetype="text"/>
+   <taskproperty id="tpd4" name="begindate" type="default" valuetype="date"/>
+   <taskproperty id="tpd5" name="enddate" type="default" valuetype="date"/>
+   <taskproperty id="tpd6" name="duration" type="default" valuetype="int"/>
+   <taskproperty id="tpd7" name="completion" type="default" valuetype="int"/>
+   <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
+   <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
+  </taskproperties>
+  <task id="1" uid="fdbbe398009045868e0ef1fa5a7b8cec" name="Project kickoff and scope" color="#8cb6ce" meeting="false" start="2026-10-12" duration="2" complete="0" thirdDate="2026-10-12" thirdDate-constraint="0" expand="true">
+   <notes>Agree on goals, target users, and core features</notes>
+  </task>
+  <task id="2" uid="22d54d5c2a3747b9adca484525b8f7d2" name="Requirements analysis" color="#8cb6ce" meeting="false" start="2026-10-12" duration="3" complete="0" thirdDate="2026-10-12" thirdDate-constraint="0" expand="true">
+   <notes>List user needs, functional requirements, and constraints</notes>
+  </task>
+  <task id="3" uid="52286c45af234b428965adf9168eb21b" name="Risk assessment" color="#8cb6ce" meeting="false" start="2026-10-13" duration="2" complete="0" thirdDate="2026-10-13" thirdDate-constraint="0" expand="true">
+   <notes>Identify schedule, technical, and teamwork risks; plan mitigations</notes>
+  </task>
+  <task id="4" uid="abaef482c875458ca0817350c1c88c2e" name="Task breakdown and responsibilities" color="#8cb6ce" meeting="false" start="2026-10-14" duration="2" complete="0" thirdDate="2026-10-14" thirdDate-constraint="0" expand="true">
+   <notes>Assign tasks, owners, and deliverables</notes>
+  </task>
+  <task id="5" uid="a9f58134495f4ee5baecb34a7762b2f9" name="Website content and book data plan" color="#8cb6ce" meeting="false" start="2026-10-14" duration="3" complete="0" thirdDate="2026-10-14" thirdDate-constraint="0" expand="true">
+   <notes>Decide book fields, categories, and sample catalogue data</notes>
+  </task>
+  <task id="6" uid="7f5ada7f349049ecbe22545d7c2305d9" name="UI wireframes and page plan" color="#8cb6ce" meeting="false" start="2026-10-15" duration="4" complete="0" thirdDate="2026-10-15" thirdDate-constraint="0" expand="true">
+   <notes>Sketch Home, Browse/Search, Book Details, Login, Admin pages</notes>
+  </task>
+  <task id="7" uid="2952681ec9c54756b34bf12b9a4142db" name="Database schema design" color="#8cb6ce" meeting="false" start="2026-10-16" duration="4" complete="0" thirdDate="2026-10-16" thirdDate-constraint="0" expand="true">
+   <notes>Plan Books, Categories, Users, and optional Borrowing records</notes>
+  </task>
+  <task id="8" uid="ff5a76002830422ea3e54107aa903a6f" name="Technology and architecture decisions" color="#8cb6ce" meeting="false" start="2026-10-16" duration="2" complete="0" thirdDate="2026-10-16" thirdDate-constraint="0" expand="true">
+   <notes>Choose frontend/backend/database tools and define integration approach</notes>
+  </task>
+  <task id="9" uid="dbb98f091607410db581743a95f62e24" name="Gantt schedule and milestones" color="#8cb6ce" meeting="false" start="2026-10-17" duration="2" complete="0" thirdDate="2026-10-17" thirdDate-constraint="0" expand="true">
+   <notes>Set dates, dependencies, checkpoints, and deliverables</notes>
+  </task>
+  <task id="10" uid="0dcd48986f904d4f93ebad02ff22e919" name="Project proposal draft" color="#8cb6ce" meeting="false" start="2026-10-18" duration="3" complete="0" thirdDate="2026-10-18" thirdDate-constraint="0" expand="true">
+   <notes>Write intended users, intended use, and overall functionality</notes>
+  </task>
+  <task id="11" uid="7e68eabf9a584b6e9e6134b2d03d3da5" name="Review and finalize proposal" color="#8cb6ce" meeting="false" start="2026-10-21" duration="2" complete="0" thirdDate="2026-10-21" thirdDate-constraint="0" expand="true">
+   <notes>Proofread, confirm requirements, export proposal to PDF</notes>
+  </task>
+  <task id="12" uid="baadbc5392ea48e19dffd91b232ef7c8" name="Project management review" color="#8cb6ce" meeting="false" start="2026-10-23" duration="2" complete="0" thirdDate="2026-10-23" thirdDate-constraint="0" expand="true">
+   <notes>Check scope, schedule, owners, communication, and risks</notes>
+  </task>
+  <task id="13" uid="468182e848e441939b4198dc1c5bf7ec" name="Presentation preparation" color="#8cb6ce" meeting="false" start="2026-10-25" duration="2" complete="0" thirdDate="2026-10-25" thirdDate-constraint="0" expand="true">
+   <notes>Prepare short explanation of scope, plan, and timeline</notes>
+  </task>
+  <task id="14" uid="2d8dfede9c5c4a9aa2f131b067535c4d" name="Final submission buffer" color="#b0b0b0" meeting="false" start="2026-11-09" duration="2" complete="0" thirdDate="2026-11-09" thirdDate-constraint="0" expand="true">
+   <notes>Check files and submit by the stated deadline</notes>
+  </task>
+ </tasks>
+ <resources>
+  <resource id="0" name="All team" function="Default:0" contacts="" phone=""/>
+  <resource id="1" name="Requirements lead" function="Default:0" contacts="" phone=""/>
+  <resource id="2" name="Team leader" function="Default:0" contacts="" phone=""/>
+  <resource id="3" name="Content/data team" function="Default:0" contacts="" phone=""/>
+  <resource id="4" name="UI/UX team" function="Default:0" contacts="" phone=""/>
+  <resource id="5" name="Database team" function="Default:0" contacts="" phone=""/>
+  <resource id="6" name="Technical lead" function="Default:0" contacts="" phone=""/>
+  <resource id="7" name="Project manager" function="Default:0" contacts="" phone=""/>
+  <resource id="8" name="Documentation team" function="Default:0" contacts="" phone=""/>
+  <resource id="9" name="Presentation lead" function="Default:0" contacts="" phone=""/>
+ </resources>
+ <allocations>
+  <allocation task-id="1" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="2" resource-id="1" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="3" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="4" resource-id="2" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="5" resource-id="3" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="6" resource-id="4" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="7" resource-id="5" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="8" resource-id="6" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="9" resource-id="7" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="10" resource-id="8" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="11" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="12" resource-id="0" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="13" resource-id="9" function="Default:0" responsible="true" load="100.0"/>
+  <allocation task-id="14" resource-id="2" function="Default:0" responsible="true" load="100.0"/>
+ </allocations>
+ <vacations/>
+ <previous/>
+ <roles roleset-name="Default"/>
+</project>
