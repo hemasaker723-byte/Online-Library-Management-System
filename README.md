@@ -21,6 +21,7 @@ Department: CS & IS
 8. Ahmed Mohamed
 9. Omar Ahmed
 10. Ziad Emad
+11. Karim Mostafa
 
 ---
 ## Trello workspace
